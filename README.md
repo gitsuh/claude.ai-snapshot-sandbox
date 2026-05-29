@@ -120,7 +120,3 @@ No — the conversation persists in Claude.ai. Only the sandbox filesystem is wi
 
 **Restore didn't reinstall my packages.**
 Make sure network access is enabled for that chat. Without it, your files still restore, but `pip` can't reach the package index.
-
-## License
-
-MIT — see [`LICENSE`](LICENSE). Swap in a different license if you prefer; if you haven't added one yet, MIT is a common, permissive default.
